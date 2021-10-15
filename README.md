@@ -2,7 +2,9 @@ THIS IS A TOY
 =============
 
 *War, huh, yeah*
+
 *What is it good for?*
+
 *Absolutely nothing, uhh*
 
 WARAD: The WAR Automatic Differentiation python library.
